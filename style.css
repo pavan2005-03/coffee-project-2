@@ -369,7 +369,7 @@ section{
 }
 
 .book{
-    background:url(..url(../../../images/book-bg.jpg)) no-repeat;
+    background:url(..url(images/book-bg.jpg)) no-repeat;
     background-position: center;
     background-size: cover;
 }
